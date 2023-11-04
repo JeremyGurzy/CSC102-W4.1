@@ -1,0 +1,48 @@
+/*Jeremy Gurzynski
+jgurzynski85952@uat.edu
+30OCT23*/
+
+/*Body given light blue background for style
+all text given shadow for better visibility on the eyes.*/
+
+body {
+    background-color: #9ab7d7;
+    text-shadow: 0 0 6px #287fdb;
+}
+
+
+.paraText {
+    font-size: 20px; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+header {
+    text-align: center;
+}
+
+/*No nav tag at present time.*/
+nav {
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+/*No footer at present time*/
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+/*Meme centered for much better look*/
+#memeimage {
+    margin-right: 200px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+/*No header at present time.*/
+header {
+    text-align: center;
+}
